@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 82827bcbb54b24fa89ac1e6f6758c925
+timeCreated: 1454173011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: imagePlane1
+    100006: joint1
+    100008: joint10
+    100010: joint11
+    100012: joint2
+    100014: joint3
+    100016: joint4
+    100018: joint5
+    100020: joint6
+    100022: joint7
+    100024: joint8
+    100026: joint9
+    100028: pasted__joint10
+    100030: pasted__joint11
+    100032: pasted__joint4
+    100034: pasted__joint5
+    100036: pasted__joint6
+    100038: pasted__joint7
+    100040: pasted__joint8
+    100042: pasted__joint9
+    100044: pCube5
+    400000: //RootNode
+    400002: group
+    400004: imagePlane1
+    400006: joint1
+    400008: joint10
+    400010: joint11
+    400012: joint2
+    400014: joint3
+    400016: joint4
+    400018: joint5
+    400020: joint6
+    400022: joint7
+    400024: joint8
+    400026: joint9
+    400028: pasted__joint10
+    400030: pasted__joint11
+    400032: pasted__joint4
+    400034: pasted__joint5
+    400036: pasted__joint6
+    400038: pasted__joint7
+    400040: pasted__joint8
+    400042: pasted__joint9
+    400044: pCube5
+    4300000: pCube5
+    7400000: Take 001
+    7400002: Take 0010
+    7400004: Take 0011
+    7400006: Take 0012
+    9500000: //RootNode
+    13700000: pCube5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/pasted__joint4
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6/pasted__joint7
+        weight: 1
+      - path: joint1/joint2/pasted__joint8
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10/pasted__joint11
+        weight: 1
+      - path: pCube5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 12
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/pasted__joint4
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6/pasted__joint7
+        weight: 1
+      - path: joint1/joint2/pasted__joint8
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10/pasted__joint11
+        weight: 1
+      - path: pCube5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0011
+      takeName: Take 001
+      firstFrame: 24
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/pasted__joint4
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6/pasted__joint7
+        weight: 1
+      - path: joint1/joint2/pasted__joint8
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10/pasted__joint11
+        weight: 1
+      - path: pCube5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0012
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/pasted__joint4
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6
+        weight: 1
+      - path: joint1/joint2/pasted__joint4/pasted__joint5/pasted__joint6/pasted__joint7
+        weight: 1
+      - path: joint1/joint2/pasted__joint8
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10
+        weight: 1
+      - path: joint1/joint2/pasted__joint8/pasted__joint9/pasted__joint10/pasted__joint11
+        weight: 1
+      - path: pCube5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
